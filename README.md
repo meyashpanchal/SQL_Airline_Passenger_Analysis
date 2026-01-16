@@ -99,4 +99,7 @@ Overall, this repository showcases strong SQL analytical skills and practical bu
 ## 👤 Author
 
 **Yash Panchal**  
-GitHub: https://github.com/meyashpanchal
+GitHub: https://github.com/yashpanchal-dev
+
+
+---
